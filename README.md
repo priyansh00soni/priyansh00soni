@@ -88,8 +88,6 @@ const priyansh = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansh00soni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh00soni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh00soni&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
 </div>
 
 ---
@@ -101,7 +99,7 @@ const priyansh = {
 | 🥇 Achievement | 📌 Details |
 |---|---|
 | **Google Big Code 2026** | Top 1,500 out of 1,00,000+ participants |
-| **Tech Co- Lead** | GFG Campus Body · MITS DU (2000+ site visitors) |
+| **Tech Co-Lead** | GFG Campus Body · MITS DU (2000+ site visitors) |
 | **Smart India Hackathon** | Cleared Internal Round 2025 |
 | **IIT Roorkee General Championship** | 2nd in MITS-DU team selection (team of 4) |
 | **Coding Coordinator** | AI&DS Department, 2nd Year |
@@ -112,7 +110,6 @@ const priyansh = {
 
 <div align="center">
 
-*"The best engineers aren't the ones who know the most — they're the ones who ship."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
