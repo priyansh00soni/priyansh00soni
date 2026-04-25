@@ -82,13 +82,9 @@ const priyansh = {
 ---
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=priyansh00soni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh00soni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansh00soni&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
