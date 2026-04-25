@@ -28,11 +28,11 @@
 
 ```ts
 const priyansh = {
-  role:        "Frontend Engineer (Full Stack leaning)",
+  role:        "Full-Stack Engineer",
   location:    "India 🇮🇳",
   currentFocus: ["React", "Next.js", "Node.js", "TypeScript"],
   achievement:  "Top 1,500 / 1,00,000+ → Google Big Code 2026 🏆",
-  position:    "Tech Lead @ GFG Campus Body, MITS DU",
+  position:    "Tech Co-Lead @ GFG Campus Body, MITS DU",
   philosophy:  "Ship fast. Break things. Fix them. Ship again.",
   openTo:      ["Internships", "Freelance", "Collabs"],
 };
@@ -51,7 +51,7 @@ const priyansh = {
 <td width="50%">
 
 ### 🌐 GFG Campus Body — MITS DU
-**Tech Lead · Full Stack · Production**
+**Tech Co-Lead · Full Stack · Production**
 
 Official website for the GeeksforGeeks Campus Body at MITS. Led a dev team, reviewed code, built responsive UI with React + Tailwind + Framer Motion.
 
@@ -93,7 +93,7 @@ A polished, production-grade calendar component built for TakeUForward. Smooth i
 <td width="50%">
 
 ### 🏫 Mini-Gems Coaching Institute
-**Freelance · Next.js · Deployed**
+**Freelance**
 
 Full freelance project — designed, built, and deployed a coaching institute website optimized for mobile. Smooth scroll, touch interactions, clean UX.
 
@@ -167,8 +167,7 @@ Full freelance project — designed, built, and deployed a coaching institute we
 | 🥇 Achievement | 📌 Details |
 |---|---|
 | **Google Big Code 2026** | Top 1,500 out of 1,00,000+ participants |
-| **Tech Lead** | GFG Campus Body · MITS DU (2000+ site visitors) |
-| **Hackathon Finalist** | Code Coalescence @ MITS Gwalior — Led team of 6 |
+| **Tech Co- Lead** | GFG Campus Body · MITS DU (2000+ site visitors) |
 | **Smart India Hackathon** | Cleared Internal Round 2025 |
 | **IIT Roorkee General Championship** | 2nd in MITS-DU team selection (team of 4) |
 | **Coding Coordinator** | AI&DS Department, 2nd Year |
