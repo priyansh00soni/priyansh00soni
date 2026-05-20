@@ -106,7 +106,7 @@ const priyansh = {
 ---
 
 <div align="center">
-
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpriyansh00soni&label=Profile+Visits&icon=github&color=%230dcaf0&message=&style=flat&tz=UTC">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
