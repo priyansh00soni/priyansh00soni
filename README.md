@@ -1,5 +1,5 @@
 <div align="center">
- 
+
 <!-- Animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyansh%20Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%3A%20Building%20things%20people%20actually%20use&descAlignY=55&descSize=16" width="100%"/>
 
